@@ -7,5 +7,5 @@ func main() {
 		return x    
 		}    
 		println(increment())    
-		println(increment())   
+		   
 }
